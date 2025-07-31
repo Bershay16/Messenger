@@ -1,5 +1,5 @@
 <!-- Screenshots -->
-<p alignment="center">
+<p align="center">
   <img src="screenshots/chat_dark.jpg" width="280"/>
   <img src="screenshots/chat_light.jpg" width="280"/>
   <img src="screenshots/home.jpg" width="280"/>
