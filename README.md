@@ -1,9 +1,12 @@
 <!-- Screenshots -->
 <p align="center">
-  <img src="screenshots/chat_dark.jpg" width="280"/>
-  <img src="screenshots/chat_light.jpg" width="280"/>
-  <img src="screenshots/home.jpg" width="280"/>
-  <img src="screenshots/login.jpg" width="280"/>
+  
+![Chat screen in dark mode showing a conversation with a dark background and message bubbles](screenshots/chat_dark.jpg)
+![Chat screen in light mode showing a conversation with a light background and message bubbles](screenshots/chat_light.jpg)
+![Home screen displaying a list of recent conversations](screenshots/home.jpg)
+![Login screen with fields for email and password and a login button](screenshots/login.jpg)
+![Report screen with a form to report user behavior](screenshots/report.jpg)
+
 </p>
 
 ---
