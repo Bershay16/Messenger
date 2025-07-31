@@ -1,16 +1,62 @@
-# my_messenger
+<!-- Screenshots -->
+<p align="center">
+  <img src="screenshots/chat_dark.jpg" width="280"/>
+  <img src="screenshots/chat_light.jpg" width="280"/>
+  <img src="screenshots/home.jpg" width="280"/>
+  <img src="screenshots/login.jpg" width="280"/>
+  <img src="screenshots/report.jpg" width="280"/>
+</p>
 
-A new Flutter project.
+---
 
-## Getting Started
+# 💬 Messenger App – Flutter & Firebase Powered
 
-This project is a starting point for a Flutter application.
+### A cross-platform, real-time chat application built with **Flutter** and **Firebase**, designed for seamless communication with a clean UI and strong backend integration.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📘 Project Description
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Messenger App is a secure, scalable, and user-friendly real-time messaging platform. It supports one-on-one chat functionality, dark/light themes, user authentication, and user behavior reporting. Built using Firebase's powerful backend services, the app demonstrates practical implementation of real-time databases, authentication, and cloud functions within a modern Flutter UI.
+
+---
+
+## ✨ Features
+
+- 🔒 **Secure Firebase Authentication** (Email/Password)
+- 💬 **Real-Time Messaging** with instant updates
+- 🌗 **Dark & Light Mode** UI support
+- 🧾 **User Reporting System** for enhanced community moderation
+- 🏠 **Home Feed** displaying recent conversations
+- 🔄 **Auto Syncing** across devices with Cloud Firestore
+- 📱 **Responsive Design** for Android & iOS
+- ⚙️ **Clean Codebase** following best practices (separation of concerns, reusable widgets)
+
+---
+
+## 🤝 Contribution
+
+We welcome contributions from developers of all skill levels!
+
+To contribute:
+
+1. Fork the repository.
+2. Clone your forked repo.
+3. Create a new branch: `git checkout -b feature-name`
+4. Commit your changes: `git commit -m "Add some feature"`
+5. Push to the branch: `git push origin feature-name`
+6. Create a Pull Request.
+
+Please follow conventional commit messages and maintain code formatting for smooth collaboration.
+
+---
+
+## 🙏 Thank You
+
+Thank you for exploring this project! Whether you're an HR professional evaluating technical capabilities or a developer seeking collaboration, I appreciate your time and interest.
+
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/bershayit/) or [email](bershayit@gmail.com) for any queries or discussions.
+
+---
+
+> **#Flutter #Firebase #ChatApp #CrossPlatform #RealTimeMessaging**
