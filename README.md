@@ -1,10 +1,9 @@
 <!-- Screenshots -->
-<p align="center">
+<p alignment="center">
   <img src="screenshots/chat_dark.jpg" width="280"/>
   <img src="screenshots/chat_light.jpg" width="280"/>
   <img src="screenshots/home.jpg" width="280"/>
   <img src="screenshots/login.jpg" width="280"/>
-  <img src="screenshots/report.jpg" width="280"/>
 </p>
 
 ---
